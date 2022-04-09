@@ -1,1 +1,18 @@
-[{"title":"Owl Hub","excerpt":"loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();"))()","date":"04-09-2022","slug":"owl-hub","featured_image":{"thumbnail":"https://cdn.discordapp.com/attachments/952582277706178590/962334693582315560/unknown.png"}}, {"title":"Dark Hub","excerpt":"loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()"))()","date":"04-09-2022","slug":"dark-hub","featured_image":{"thumbnail":"https://cdn.discordapp.com/attachments/952582277706178590/962346781700665344/unknown.png"}}]
+[  
+    
+    {"title":"OwlHub",
+    "desc":"Owl Hub is a free Roblox script hub developed by Google Chrome and CriShoux. It currently has 30+ games. It is made to be executed on Roblox exploits. It works on the exploits that are shown below.",
+    "excerpt":"loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/CriShoux\/OwlHub\/master\/OwlHub.txt\"))();",
+    "date":"04-09-2022",
+    "slug":"owlhub",
+    "featured_image":{"thumbnail":"https://cdn.discordapp.com/attachments/952582277706178590/962334693582315560/unknown.png"}}, 
+
+
+    {"title":"OwlHub",
+        "desc":"Owl Hub is a free Roblox script hub developed by Google Chrome and CriShoux. It currently has 30+ games. It is made to be executed on Roblox exploits. It works on the exploits that are shown below.",
+        "excerpt":"loadstring(game:HttpGet(\"https:\/\/raw.githubusercontent.com\/CriShoux\/OwlHub\/master\/OwlHub.txt\"))();",
+        "date":"04-09-2022",
+        "slug":"owlhub",
+        "featured_image":{"thumbnail":"https://cdn.discordapp.com/attachments/952582277706178590/962334693582315560/unknown.png"}}
+
+]
